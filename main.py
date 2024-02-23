@@ -31,4 +31,4 @@ if __name__ == "__main__":
         output_file_path = f"{file_name}.json"
         with open(output_file_path, 'w') as f:
             f.write(json_data)
-        print(f"Conversion successful. JSON data written to {output_file_path}.")
+        print(f"Conversion was successful. JSON data written to {output_file_path}.")
