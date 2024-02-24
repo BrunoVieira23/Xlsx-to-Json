@@ -1,2 +1,3 @@
 # Xlsx-to-Json
-Converts excel files to json
+
+Converts Microsoft Excel files to Json
